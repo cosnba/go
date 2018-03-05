@@ -13,5 +13,5 @@ func main() {
 
 //MyFunc MyFunc
 func MyFunc() int {
-	return 666
+	return 777
 }
